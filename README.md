@@ -51,13 +51,9 @@ Project Steps
 Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo-name/car-price-knn.git
+   git clone https://github.com/Divyansh-13/KNN_car_Price_prediction.git
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Google Colab Notebook to preprocess data and train the model.
+2. Run the Google Colab Notebook to preprocess data and train the model.
 
 Colab Notebook
 [Open the Colab Notebook](https://colab.research.google.com/drive/158LqQivPjy9FTAX-fBaFkfIzN2GDNP7l?usp=sharing)
