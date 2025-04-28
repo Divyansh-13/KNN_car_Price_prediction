@@ -1,8 +1,3 @@
-# Car Price Prediction using KNN
-
-Overview
-This project aims to build a Car Price Prediction Model using the K-Nearest Neighbors (KNN) algorithm. The dataset contains various car attributes like brand, model, year, mileage, fuel type, transmission type, and price. The goal is to predict the price of a car based on these features.
-
 # Car Price Prediction using K-Nearest Neighbors (KNN)
 
 This project aims to predict car prices using the K-Nearest Neighbors (KNN) algorithm. The dataset used contains information about various car features, including make, model, year, horsepower, engine size, mileage, and price.
