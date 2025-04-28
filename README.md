@@ -56,7 +56,7 @@ Setup Instructions
 2. Run the Google Colab Notebook to preprocess data and train the model.
 
 Colab Notebook
-[Open the Colab Notebook](https://colab.research.google.com/drive/158LqQivPjy9FTAX-fBaFkfIzN2GDNP7l?usp=sharing)
+[Open the Colab Notebook](https://colab.research.google.com/drive/1-rFkvBvoJqGOiutzwaP8TmA6dEw2DzTl?usp=sharing)
 
 Future Enhancements
 - Deploying the trained model on a Next.js Web App
