@@ -84,6 +84,3 @@ Future Enhancements
 - Deploying the trained model on a Next.js Web App
 - Using Flask/FastAPI to serve predictions
 - Experimenting with deep learning models for better accuracy
-
-Contributor
-- Divyansh Sharma- Developer & Data Analyst
